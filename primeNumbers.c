@@ -1,6 +1,6 @@
 #include<stdio.h>
 void prime()
-//Muzaffer Baran SEN 210208008
+//Muzaffer Baran SEN
 {
      int i=2,j,p;
      while(i<=100)
